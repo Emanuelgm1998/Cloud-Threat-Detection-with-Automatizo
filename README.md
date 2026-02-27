@@ -1,5 +1,6 @@
 
-# Cloud-Security-Threat-Hunter
+# 
+Cloud-Security-Threat-Hunter
 
 > **Threat hunting** en tiempo real para **logs de Nginx** y **syslog/SSH**, con **detecciones por reglas**, **anomalías estadísticas (EWMA + z-score)**, dashboard en consola (**Rich**) y **reportes JSON/Markdown**. Pensado para **Codespaces**, **DevSecOps** y operatividad desde el día 1.
 
